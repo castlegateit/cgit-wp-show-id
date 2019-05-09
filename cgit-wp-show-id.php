@@ -8,7 +8,7 @@ Description: Show post and page ID in WordPress admin panel.
 Version: 1.1
 Author: Castlegate IT
 Author URI: http://www.castlegateit.co.uk/
-License: AGPL
+License: AGPLv3
 
 */
 
